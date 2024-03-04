@@ -1,0 +1,15 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'build/Deliverable1.blg'
+[1170] biber-MSWIN64:340> INFO - === 
+[1253] Biber.pm:418> INFO - Reading 'build/Deliverable1.bcf'
+[1518] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[1573] Biber.pm:4401> INFO - Processing section 0
+[1614] Biber.pm:4592> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
+[1736] bibtex.pm:1713> INFO - LaTeX decoding ...
+[1750] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/sample.bib'
+[1838] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1839] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1840] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[1840] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[1857] bbl.pm:654> INFO - Writing 'build/Deliverable1.bbl' with encoding 'UTF-8'
+[1860] bbl.pm:757> INFO - Output to build/Deliverable1.bbl

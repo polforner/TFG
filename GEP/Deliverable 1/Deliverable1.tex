@@ -1,0 +1,26 @@
+\documentclass[a4paper, twoside]{report}
+
+%Packages
+\usepackage{graphicx}
+\graphicspath{ {img/} }
+\usepackage{enumitem}
+\usepackage[
+backend=biber,
+style=ieee,
+sorting=none
+]{biblatex}
+\addbibresource{bib/sample.bib}
+\usepackage[hidelinks]{hyperref}
+%Remove chapter headers
+\usepackage{titlesec}
+\titleformat{\chapter}{}{}{0em}{\bf\huge}
+%% Sets page size and margins
+\usepackage[a4paper,top=3cm,bottom=3cm,left=2.5cm,right=2.5cm,marginparwidth=1.75cm]{geometry}
+
+\begin{document}
+\input{FrontPage}
+\tableofcontents
+\input{Context&Scope}
+\nocite{*}
+\printbibliography
+\end{document}
