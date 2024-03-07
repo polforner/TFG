@@ -1,12 +1,12 @@
 # Fdb version 3
-["biber build/Deliverable3"] 1709578402 "build/Deliverable3.bcf" "build/Deliverable3.bbl" "build/Deliverable3" 1709841195
+["biber build/Deliverable3"] 1709578402 "build/Deliverable3.bcf" "build/Deliverable3.bbl" "build/Deliverable3" 1709846211
   "bib/sample.bib" 1709575084 1404 3f0b7d63553fa501bec34fd934ae9e8b ""
-  "build/Deliverable3.bcf" 1709841194 106705 2cea084c2f829f36c645977b988ab17e "pdflatex"
+  "build/Deliverable3.bcf" 1709846211 106705 2cea084c2f829f36c645977b988ab17e "pdflatex"
   (generated)
   "build/Deliverable3.bbl"
   "build/Deliverable3.blg"
-["pdflatex"] 1709841190 "c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 3/Deliverable3.tex" "build/Deliverable3.pdf" "Deliverable3" 1709841195
-  "Budget&Sustainability.tex" 1709841179 146 29d4d7ab40457f995fca06b535f4fcf3 ""
+["pdflatex"] 1709846206 "c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 3/Deliverable3.tex" "build/Deliverable3.pdf" "Deliverable3" 1709846211
+  "Budget&Sustainability.tex" 1709846202 388 040fc3eab68bbbd48f9defe666e474a4 ""
   "C:/Users/polfo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1709565550 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/polfo/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1667215307 10788011 ca104307e0b5fec69a445d4f3719bbcd ""
   "C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -179,11 +179,11 @@
   "C:/Users/polfo/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "Deliverable3.tex" 1709578396 803 7b9f161a171be1a737e6095c6ff98b4b ""
   "FrontPage.tex" 1709578396 970 0acb5d26ffce22587b3667c41cd3703a ""
-  "build/Deliverable3.aux" 1709841194 1768 3a1650a5d14aa23f1d4be77a37695153 "pdflatex"
+  "build/Deliverable3.aux" 1709846211 1768 3a1650a5d14aa23f1d4be77a37695153 "pdflatex"
   "build/Deliverable3.bbl" 1709578406 6507 3e6b8aa1c2fb001dd6f154fbedf4730a "biber build/Deliverable3"
-  "build/Deliverable3.out" 1709841194 673 741bbbdb95d0916d803b38203a46369c "pdflatex"
-  "build/Deliverable3.run.xml" 1709841194 2458 7d2b7abd2cc77d7359ef677aeaab7a51 "pdflatex"
-  "build/Deliverable3.toc" 1709841194 374 5ca9dd4081bb4a25dc7fb21e3d7bdc86 "pdflatex"
+  "build/Deliverable3.out" 1709846211 673 741bbbdb95d0916d803b38203a46369c "pdflatex"
+  "build/Deliverable3.run.xml" 1709846211 2458 7d2b7abd2cc77d7359ef677aeaab7a51 "pdflatex"
+  "build/Deliverable3.toc" 1709846211 374 5ca9dd4081bb4a25dc7fb21e3d7bdc86 "pdflatex"
   "c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 3/Deliverable3.tex" 1709578396 803 7b9f161a171be1a737e6095c6ff98b4b ""
   "img//LogoUPC&FIB.png" 1708774766 6138 780a8daeb0f789bd778540d459944794 ""
   (generated)
