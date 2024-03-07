@@ -44,10 +44,10 @@
   <internal package="biblatex" priority="9" active="0">
     <generic>latex</generic>
     <provides type="dynamic">
-      <file>Deliverable2.bcf</file>
+      <file>Deliverable3.bcf</file>
     </provides>
     <requires type="dynamic">
-      <file>Deliverable2.bbl</file>
+      <file>Deliverable3.bbl</file>
     </requires>
     <requires type="static">
       <file>blx-dm.def</file>
@@ -67,19 +67,19 @@
     <generic>biber</generic>
     <cmdline>
       <binary>biber</binary>
-      <infile>Deliverable2</infile>
+      <infile>Deliverable3</infile>
     </cmdline>
     <input>
-      <file>Deliverable2.bcf</file>
+      <file>Deliverable3.bcf</file>
     </input>
     <output>
-      <file>Deliverable2.bbl</file>
+      <file>Deliverable3.bbl</file>
     </output>
     <provides type="dynamic">
-      <file>Deliverable2.bbl</file>
+      <file>Deliverable3.bbl</file>
     </provides>
     <requires type="dynamic">
-      <file>Deliverable2.bcf</file>
+      <file>Deliverable3.bcf</file>
     </requires>
     <requires type="editable">
       <file>bib/sample.bib</file>

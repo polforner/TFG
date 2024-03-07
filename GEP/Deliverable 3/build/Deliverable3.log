@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.31)  4 MAR 2024 19:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.31)  7 MAR 2024 20:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 2/Deliverable2.tex"
-(c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 2/Deliverable2.tex
+**"c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 3/Deliverable3.tex"
+(c:/Users/polfo/Documents/UNI/4t/Q8/TFG/GEP/Deliverable 3/Deliverable3.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
 Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
@@ -752,8 +752,8 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
 \@quotelevel=\count465
 \@quotereset=\count466
- (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.aux)
-\openout1 = `Deliverable2.aux'.
+ (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux)
+\openout1 = `Deliverable3.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
 LaTeX Font Info:    ... okay on input line 28.
@@ -800,17 +800,17 @@ File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
 Package biblatex Info: Input encoding 'utf8' detected.
 Package biblatex Info: Automatic encoding selection.
 (biblatex)             Assuming data encoding 'utf8'.
-\openout4 = `Deliverable2.bcf'.
+\openout4 = `Deliverable3.bcf'.
 
 Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Deliverable2.bbl' found.
- (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.bbl)
+Package biblatex Info: ... file 'Deliverable3.bbl' found.
+ (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl)
 Package biblatex Info: Reference section=0 on input line 28.
 Package biblatex Info: Reference segment=0 on input line 28.
 Package hyperref Info: Link coloring OFF on input line 28.
- (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.out) (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.out)
+ (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out) (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out)
 \@outlinefile=\write5
-\openout5 = `Deliverable2.out'.
+\openout5 = `Deliverable3.out'.
 
 
 *geometry* driver: auto-detecting
@@ -848,7 +848,7 @@ Package hyperref Info: Link coloring OFF on input line 28.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 (FrontPage.tex
-<img//LogoUPC&FIB.png, id=54, 580.1675pt x 87.32625pt>
+<img//LogoUPC&FIB.png, id=26, 580.1675pt x 87.32625pt>
 File: img//LogoUPC&FIB.png Graphic file (type png)
 <use img//LogoUPC&FIB.png>
 Package pdftex.def Info: img//LogoUPC&FIB.png  used on input line 5.
@@ -859,77 +859,46 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 24.
  [1
 
-{C:/Users/polfo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img//LogoUPC&FIB.png>]) (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.toc
+{C:/Users/polfo/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img//LogoUPC&FIB.png>]) (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 2.
 )
 \tf@toc=\write6
-\openout6 = `Deliverable2.toc'.
+\openout6 = `Deliverable3.toc'.
 
- (Planning.tex [2
+ (Budget&Sustainability.tex [2
 
 ]
 Chapter 1.
-
-Underfull \hbox (badness 10000) in paragraph at lines 2--4
-
- []
-
 [3
 
 ]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4] [5] [6]
 Chapter 2.
+) [4
 
-Underfull \hbox (badness 10000) in paragraph at lines 211--211
-[]|\OT1/cmr/bx/n/10 Previous
- []
+] [5
 
-
-Underfull \hbox (badness 5274) in paragraph at lines 237--237
-[]|\OT1/cmr/bx/n/10 First Al-go-rithm De-vel-op-
- []
-
-
-Overfull \hbox (6.99692pt too wide) in paragraph at lines 259--259
-[]|\OT1/cmr/bx/n/10 RL,FA,SA,G| 
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [7
-
-] [8]
-Chapter 3.
-) [9
-
-] [10
-
-] (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.aux)
-Package rerunfilecheck Info: File `Deliverable2.out' has not changed.
-(rerunfilecheck)             Checksum: B9B1396AA777F0EACFC5C3B1EA75B667;2121.
-Package logreq Info: Writing requests to 'Deliverable2.run.xml'.
-\openout1 = `Deliverable2.run.xml'.
+] (c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux)
+Package rerunfilecheck Info: File `Deliverable3.out' has not changed.
+(rerunfilecheck)             Checksum: 741BBBDB95D0916D803B38203A46369C;673.
+Package logreq Info: Writing requests to 'Deliverable3.run.xml'.
+\openout1 = `Deliverable3.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 30576 strings out of 475385
- 609369 string characters out of 2776906
- 1374881 words of memory out of 3000000
- 51461 multiletter control sequences out of 15000+600000
- 474367 words of font info for 45 fonts, out of 8000000 for 9000
+ 29821 strings out of 475385
+ 593907 string characters out of 2776906
+ 1324192 words of memory out of 3000000
+ 50727 multiletter control sequences out of 15000+600000
+ 473733 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 84i,12n,89p,1123b,1277s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\polfo\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on "c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable2.pdf" (10 pages, 191208 bytes).
+ 84i,5n,89p,1123b,1283s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/polfo/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on "c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.pdf" (5 pages, 128855 bytes).
 PDF statistics:
- 202 PDF objects out of 1000 (max. 8388607)
- 37 named destinations out of 1000 (max. 500000)
- 114 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 107 PDF objects out of 1000 (max. 8388607)
+ 18 named destinations out of 1000 (max. 500000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 

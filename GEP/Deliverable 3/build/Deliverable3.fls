@@ -1,7 +1,7 @@
-PWD c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2
+PWD c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3
 INPUT C:\Users\polfo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\Deliverable1.tex
-OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.log
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\Deliverable3.tex
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.log
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\base\report.cls
@@ -69,6 +69,337 @@ INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\subfigure\subfigure.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\mathcolor.ltx
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\multirow\multirow.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgfgantt\pgfgantt.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarybackgrounds.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypatterns.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibrarypatterns.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshapes.geometric.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\shapes\pgflibraryshapes.geometric.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfcalendar.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\utilities\pgfcalendar.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\generic\pgf\math\pgfint.code.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\epigraph\epigraph.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\nextpage\nextpage.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
@@ -80,6 +411,41 @@ INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.s
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\changepage\changepage.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\colortbl\colortbl.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\tools\array.sty
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\graphics\color.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
@@ -562,10 +928,10 @@ INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.c
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.cfg
-INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.aux
-INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.aux
-INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.aux
-OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.aux
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -588,6 +954,81 @@ INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-s
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\lbx\english.lbx
-OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.bcf
-OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.out
-OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 2\build\Deliverable1.pdf
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bcf
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.bbl
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.pdf
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT .\FrontPage.tex
+INPUT .\FrontPage.tex
+INPUT .\FrontPage.tex
+INPUT FrontPage.tex
+INPUT .\FrontPage.tex
+INPUT .\FrontPage.tex
+INPUT FrontPage.tex
+INPUT .\img\\LogoUPC&FIB.png
+INPUT img\\LogoUPC&FIB.png
+INPUT .\img\\LogoUPC&FIB.png
+INPUT .\img\\LogoUPC&FIB.png
+INPUT .\img\\LogoUPC&FIB.png
+INPUT .\img\\LogoUPC&FIB.png
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\polfo\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.toc
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.toc
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.toc
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.toc
+INPUT .\Budget&Sustainability.tex
+INPUT .\Budget&Sustainability.tex
+INPUT .\Budget&Sustainability.tex
+INPUT Budget&Sustainability.tex
+INPUT .\Budget&Sustainability.tex
+INPUT .\Budget&Sustainability.tex
+INPUT Budget&Sustainability.tex
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.aux
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.out
+INPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.run.xml
+OUTPUT c:\Users\polfo\Documents\UNI\4t\Q8\TFG\GEP\Deliverable 3\build\Deliverable3.run.xml
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\polfo\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb

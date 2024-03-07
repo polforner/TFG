@@ -19,30 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{TFGALex}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a15e5255fbe7b20e626fb3d15137ebf6}{%
-           family={Herrero},
-           familyi={H\bibinitperiod},
-           given={Alex},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{fullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{bibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authorbibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authornamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authorfullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{langid}{english}
-      \field{title}{{FACULTAT} D'{INFORMÀTICA} {DE} {BARCELONA} ({FIB}) {UNIVERSITAT}}
-      \verb{file}
-      \verb Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:C\:\\Users\\polfo\\Zotero\\storage\\RM8CI4DI\\Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:application/pdf
-      \endverb
-    \endentry
     \entry{TFM}{article}{}
       \name{author}{2}{}{%
         {{hash=f089b0d7b0ad741fd7678f455f32b99b}{%
@@ -68,6 +44,7 @@
       \field{labeltitlesource}{title}
       \field{langid}{english}
       \field{title}{{FACULTAT} D'{INFORMÀTICA} {DE} {BARCELONA} ({FIB})}
+      \true{nocite}
       \verb{file}
       \verb Pasarella y Vidal - FACULTAT D'INFORMÀTICA DE BARCELONA (FIB) UNIVER.pdf:C\:\\Users\\polfo\\Zotero\\storage\\9S3FB9YR\\Pasarella y Vidal - FACULTAT D'INFORMÀTICA DE BARCELONA (FIB) UNIVER.pdf:application/pdf
       \endverb
@@ -81,6 +58,7 @@
       \field{urlmonth}{3}
       \field{urlyear}{2024}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{file}
       \verb Haskell:C\:\\Users\\polfo\\Zotero\\storage\\TCTEGGXW\\Haskell.html:text/html
       \endverb
@@ -119,6 +97,7 @@
       \field{year}{2021}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://github.com/jproyo/dynamic-pipeline
       \endverb
@@ -152,11 +131,37 @@
       \field{year}{2024}
       \field{dateera}{ce}
       \field{urldateera}{ce}
+      \true{nocite}
       \verb{urlraw}
       \verb https://github.com/polforner/TFG
       \endverb
       \verb{url}
       \verb https://github.com/polforner/TFG
+      \endverb
+    \endentry
+    \entry{TFGALex}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a15e5255fbe7b20e626fb3d15137ebf6}{%
+           family={Herrero},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{fullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{bibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authorbibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authornamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authorfullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{FACULTAT} D'{INFORMÀTICA} {DE} {BARCELONA} ({FIB}) {UNIVERSITAT}}
+      \true{nocite}
+      \verb{file}
+      \verb Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:C\:\\Users\\polfo\\Zotero\\storage\\RM8CI4DI\\Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:application/pdf
       \endverb
     \endentry
   \enddatalist

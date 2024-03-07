@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
-[1] Config.pm:309> INFO - Logfile is 'build/Deliverable2.blg'
-[231] biber-MSWIN64:340> INFO - === 
-[309] Biber.pm:418> INFO - Reading 'build/Deliverable2.bcf'
-[533] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[564] Biber.pm:4401> INFO - Processing section 0
-[588] Biber.pm:4592> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
-[643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[643] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[643] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[643] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[644] bbl.pm:654> INFO - Writing 'build/Deliverable2.bbl' with encoding 'UTF-8'
-[644] bbl.pm:757> INFO - Output to build/Deliverable2.bbl
-[644] Biber.pm:130> WARN - Data source 'bib/sample.bib' contains no BibTeX entries/macros, ignoring
-[644] Biber.pm:132> INFO - WARNINGS: 1
+[0] Config.pm:309> INFO - Logfile is 'build/Deliverable2.blg'
+[175] biber-MSWIN64:340> INFO - === 
+[239] Biber.pm:418> INFO - Reading 'build/Deliverable2.bcf'
+[456] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[479] Biber.pm:4401> INFO - Processing section 0
+[498] Biber.pm:4592> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
+[630] bibtex.pm:1713> INFO - LaTeX decoding ...
+[651] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/sample.bib'
+[848] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[848] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[848] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[848] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[866] bbl.pm:654> INFO - Writing 'build/Deliverable2.bbl' with encoding 'UTF-8'
+[869] bbl.pm:757> INFO - Output to build/Deliverable2.bbl
