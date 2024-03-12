@@ -1,15 +1,15 @@
 [0] Config.pm:306> INFO - This is Biber 2.18
 [1] Config.pm:309> INFO - Logfile is 'build/Deliverable3.blg'
-[231] biber-MSWIN64:340> INFO - === 
-[306] Biber.pm:418> INFO - Reading 'build/Deliverable3.bcf'
-[509] Biber.pm:975> INFO - Using all citekeys in bib section 0
-[543] Biber.pm:4401> INFO - Processing section 0
-[561] Biber.pm:4592> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
-[662] bibtex.pm:1713> INFO - LaTeX decoding ...
-[676] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/sample.bib'
-[763] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
-[764] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[764] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
-[764] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
-[780] bbl.pm:654> INFO - Writing 'build/Deliverable3.bbl' with encoding 'UTF-8'
-[786] bbl.pm:757> INFO - Output to build/Deliverable3.bbl
+[774] biber-MSWIN64:340> INFO - === 
+[1227] Biber.pm:418> INFO - Reading 'build/Deliverable3.bcf'
+[2169] Biber.pm:975> INFO - Using all citekeys in bib section 0
+[2239] Biber.pm:4401> INFO - Processing section 0
+[2290] Biber.pm:4592> INFO - Looking for bibtex file 'bib/sample.bib' for section 0
+[2469] bibtex.pm:1713> INFO - LaTeX decoding ...
+[2642] bibtex.pm:1518> INFO - Found BibTeX data source 'bib/sample.bib'
+[2910] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2910] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2911] Biber.pm:4221> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[2911] Biber.pm:4227> INFO - No sort tailoring available for locale 'en-US'
+[3008] bbl.pm:654> INFO - Writing 'build/Deliverable3.bbl' with encoding 'UTF-8'
+[3104] bbl.pm:757> INFO - Output to build/Deliverable3.bbl

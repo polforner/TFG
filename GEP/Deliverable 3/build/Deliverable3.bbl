@@ -19,7 +19,85 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
-    \entry{TFM}{article}{}
+    \entry{GlassDoorResearcher}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Researcher is \$30,000 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Researcher in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\4I2NF74K\\spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+    \endentry
+    \entry{GlassdoorProjectManager}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Project Manager is \$40,000 per year in Madrid, Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Project Manager in Madrid, Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+    \endentry
+    \entry{GlassdoorSoftwareDeveloper}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Software Developer is \$33,500 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{1}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Software Developer in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\97TNRJIQ\\spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+    \endentry
+    \entry{pasarella_facultat_nodate}{article}{}
       \name{author}{2}{}{%
         {{hash=f089b0d7b0ad741fd7678f455f32b99b}{%
            family={Pasarella},
@@ -38,20 +116,40 @@
       \strng{authorbibnamehash}{b563e87f920a9c78b50afc0675628608}
       \strng{authornamehash}{b563e87f920a9c78b50afc0675628608}
       \strng{authorfullhash}{b563e87f920a9c78b50afc0675628608}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{langid}{english}
-      \field{title}{{FACULTAT} D'{INFORMÀTICA} {DE} {BARCELONA} ({FIB})}
+      \field{title}{{FACULTAT} {INFORMATICA} {DE} {BARCELONA} ({FIB}) {UNIVERSITAT}}
       \true{nocite}
       \verb{file}
-      \verb Pasarella y Vidal - FACULTAT D'INFORMÀTICA DE BARCELONA (FIB) UNIVER.pdf:C\:\\Users\\polfo\\Zotero\\storage\\9S3FB9YR\\Pasarella y Vidal - FACULTAT D'INFORMÀTICA DE BARCELONA (FIB) UNIVER.pdf:application/pdf
+      \verb Pasarella y Vidal - FACULTAT D’INFORMA` TICA DE BARCELONA (FIB) UNIVER.pdf:C\:\\Users\\polfo\\Zotero\\storage\\9S3FB9YR\\Pasarella y Vidal - FACULTAT D’INFORMA` TICA DE BARCELONA (FIB) UNIVER.pdf:application/pdf
       \endverb
     \endentry
-    \entry{ApuntesHaskell}{online}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+    \entry{noauthor_git_nodate}{online}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labeltitlesource}{title}
+      \field{title}{Git}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Git:C\:\\Users\\polfo\\Zotero\\storage\\IRX5XLYA\\git-scm.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://git-scm.com/
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/
+      \endverb
+    \endentry
+    \entry{noauthor_haskell_nodate}{online}{}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
       \field{labeltitlesource}{title}
       \field{title}{Haskell}
       \field{urlday}{4}
@@ -69,43 +167,7 @@
       \verb https://www.cs.upc.edu/~jpetit/Haskell/#1
       \endverb
     \endentry
-    \entry{GitHubDynamicPipeline}{software}{}
-      \name{author}{1}{}{%
-        {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
-           family={Sales},
-           familyi={S\bibinitperiod},
-           given={Juan\bibnamedelimb Pablo\bibnamedelima Royo},
-           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
-      }
-      \strng{namehash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \strng{fullhash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \strng{bibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \strng{authorbibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \strng{authornamehash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \strng{authorfullhash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \field{sortinit}{4}
-      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{day}{21}
-      \field{month}{7}
-      \field{note}{original-date: 2021-03-27T11:12:27Z}
-      \field{title}{jproyo/dynamic-pipeline}
-      \field{urlday}{4}
-      \field{urlmonth}{3}
-      \field{urlyear}{2024}
-      \field{year}{2021}
-      \field{dateera}{ce}
-      \field{urldateera}{ce}
-      \true{nocite}
-      \verb{urlraw}
-      \verb https://github.com/jproyo/dynamic-pipeline
-      \endverb
-      \verb{url}
-      \verb https://github.com/jproyo/dynamic-pipeline
-      \endverb
-    \endentry
-    \entry{GitHubTFG}{software}{}
+    \entry{TFG_GITHUB}{software}{}
       \name{author}{1}{}{%
         {{hash=141146f6421f3d59ae5d77b1beb72efb}{%
            family={Pol},
@@ -117,8 +179,8 @@
       \strng{authorbibnamehash}{141146f6421f3d59ae5d77b1beb72efb}
       \strng{authornamehash}{141146f6421f3d59ae5d77b1beb72efb}
       \strng{authorfullhash}{141146f6421f3d59ae5d77b1beb72efb}
-      \field{sortinit}{5}
-      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{sortinit}{8}
+      \field{sortinithash}{a231b008ebf0ecbe0b4d96dcc159445f}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{4}
@@ -139,29 +201,26 @@
       \verb https://github.com/polforner/TFG
       \endverb
     \endentry
-    \entry{TFGALex}{article}{}
-      \name{author}{1}{}{%
-        {{hash=a15e5255fbe7b20e626fb3d15137ebf6}{%
-           family={Herrero},
-           familyi={H\bibinitperiod},
-           given={Alex},
-           giveni={A\bibinitperiod}}}%
-      }
-      \strng{namehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{fullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{bibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authorbibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authornamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \strng{authorfullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
-      \field{sortinit}{6}
-      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
-      \field{labelnamesource}{author}
+    \entry{noauthor_what_nodate-1}{online}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{0a5ebc79d83c96b6579069544c73c7d4}
       \field{labeltitlesource}{title}
+      \field{abstract}{How long is your new, or used, computer supposed to last? Learn more about the average computer lifespan and advice on how to extend the longevity of your {PC}.}
       \field{langid}{english}
-      \field{title}{{FACULTAT} D'{INFORMÀTICA} {DE} {BARCELONA} ({FIB}) {UNIVERSITAT}}
+      \field{title}{What is the Average Lifespan of a Computer?}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
       \true{nocite}
       \verb{file}
-      \verb Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:C\:\\Users\\polfo\\Zotero\\storage\\RM8CI4DI\\Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:application/pdf
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\SBBPTQUR\\average-computer-lifespan.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
+      \endverb
+      \verb{url}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
       \endverb
     \endentry
   \enddatalist
