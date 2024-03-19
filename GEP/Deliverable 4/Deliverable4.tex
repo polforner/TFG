@@ -11,7 +11,7 @@
 \usepackage{epigraph}
 \usepackage{enumitem}
 \usepackage{changepage}
-	
+\usepackage{amsmath}
 \usepackage{color, colortbl}
 \usepackage[
 backend=biber,
@@ -25,10 +25,13 @@ sorting=none
 \titleformat{\chapter}{}{}{0em}{\bf\huge}
 %% Sets page size and margins
 \usepackage[a4paper,top=3cm,bottom=3cm,left=2.5cm,right=2.5cm,marginparwidth=1.75cm]{geometry}
+
 \begin{document}
 \input{FrontPage}
 \tableofcontents
-\input{Planning}
+\input{input/Context&Scope}
+\input{input/Planning}
+\input{input/Budget&Sustainability}
 \nocite{*}
 \printbibliography
 \end{document}
