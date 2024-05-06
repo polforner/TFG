@@ -38,27 +38,30 @@
 #-}
 
 import DynamicPipeline
-import Relude
+import Relude as R
 import Relude.Unsafe as U
+import GHC.IO.Handle as H
+import Data.ByteString as B
 
 
 --Aixo es la definicio del typus de la pipeline
 type DPExample = Source (Channel ( ([Char],Int) :<+> Eof)) :=> Generator (Channel (([Char],Int):<+> Eof)) :=> Sink
 
 input :: [Char]
-input = "test2.txt"
+input = "test3.txt"
+--input = "quijote.txt"
 
 --SOURCE--
 --Aixo es la definicio de la font de la pipeline, utilitza el combinador per generar una font
 source' :: Stage (WriteChannel ([Char],Int) -> DP s ())
-source' = withSource @DPExample $ \cout -> unfoldFile input cout convert
+source' = withSource @DPExample $ \cout -> unfoldFile' input cout convert
+
+unfoldFile':: FilePath -> WriteChannel ([Char],Int) -> (ByteString -> ([Char],Int)) -> DP s ()
+unfoldFile' file writeChannel fn =
+  liftIO $ R.withFile file ReadMode $ \h -> unfoldM (B.hGet h 1) fn (H.hIsEOF h) writeChannel
 
 convert :: ByteString -> ([Char],Int)
-convert bs = (makeitSafe $ (!!?) (map toString $ words $ decodeUtf8 bs) 0,0)
-
-makeitSafe :: Maybe [Char] -> [Char]
-makeitSafe (Just a) = a
-makeitSafe Nothing = ""
+convert bs = (decodeUtf8 bs,0)
 
 --GENERATOR--
 generator' :: GeneratorStage DPExample ([Char],Int) ([Char],Int) s

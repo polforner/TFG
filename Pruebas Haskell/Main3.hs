@@ -38,23 +38,40 @@
 #-}
 
 import DynamicPipeline
-import Relude
+import Relude as R
 import Relude.Unsafe as U
+import GHC.IO.Handle as H
+import Data.ByteString as B
 
 
 --Aixo es la definicio del typus de la pipeline
 type DPExample = Source (Channel ( ([Char],Int) :<+> Eof)) :=> Generator (Channel (([Char],Int):<+> Eof)) :=> Sink
 
 input :: [Char]
-input = "test2.txt"
+input = "test3.txt"
 
 --SOURCE--
 --Aixo es la definicio de la font de la pipeline, utilitza el combinador per generar una font
 source' :: Stage (WriteChannel ([Char],Int) -> DP s ())
-source' = withSource @DPExample $ \cout -> unfoldFile input cout convert
+source' = withSource @DPExample $ \cout -> unfoldFile' input cout convert
+
+unfoldFile':: FilePath -> WriteChannel ([Char],Int) -> (ByteString -> ([Char],Int)) -> DP s ()
+unfoldFile' file writeChannel fn =
+  liftIO $ R.withFile file ReadMode $ \h -> unfoldM (hGetWord h) fn (H.hIsEOF h) writeChannel
+
+hGetWord :: Handle -> IO ByteString
+hGetWord h = hGetWordRec h B.empty
+
+hGetWordRec :: Handle -> ByteString -> IO ByteString
+hGetWordRec h r = do
+  c <- B.hGet h 1
+  if c == " " || c == "\n" then return r
+  else do
+    cs <- hGetWordRec h (B.append r c)
+    return cs
 
 convert :: ByteString -> ([Char],Int)
-convert bs = (makeitSafe $ (!!?) (map toString $ words $ decodeUtf8 bs) 0,0)
+convert bs = (makeitSafe $ (!!?) (R.map toString $ words $ decodeUtf8 bs) 0,0)
 
 makeitSafe :: Maybe [Char] -> [Char]
 makeitSafe (Just a) = a
