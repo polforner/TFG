@@ -1,0 +1,125 @@
+\chapter{Budget}
+In this section I will identify the costs of the project. 
+I will break down the costs into different categories, then I will estimate the costs of each one and finally I will propose a management control system to monitor the costs.
+\section{Identification of costs}
+Here are all the cost group by categories that I will consider in this project.
+\subsection*{Hardware}
+In my project the only hardware that is needed is a computer.
+We need a computer for all the process: research, programming, writing the documentation, etc.
+If we needed to test our algorithm with a large dataset, we maybe would need a computer with a high performance or a more specialized hardware, but in this work I will not consider this case.
+I will consider a generic computer / laptop.
+\subsection*{Software}
+In this project is only planned to use a few software tools.
+Starting with the programming language, I will use Haskell.
+Haskell has a compiler called Glasgow Haskell Compiler (GHC) and would be sufficient for the project.
+I'm also using Visual Studio Code as a text editor, for both writing the code and the documentation.
+The next software that I will use is \LaTeX, for writing the documentation.
+I also will use GitHub for the version control of the project, that uses Git.
+\subsection*{Human resources}
+Truthy I'm the only human resource that is working in this project, but I will consider me as a person assuming different roles.
+As mentinoded in the planning section, I will be taking 3 diferents roles:
+\begin{itemize}
+    \item Researcher: For tasks RL2, SA1 and some documentation
+    \item Haskell Developer: For tasks RL3, all FA tasks and all SA tasks
+    \item Project Manager: For all G and D tasks
+\end{itemize}
+\subsection*{Other costs}
+I will not consider other costs as the cost of the internet connection, the electricity and the cost of the paper and ink for printing the documentation.
+As I consider very specific costs and do not have a huge impact in the total cost.
+Other cost that could be considered is the cost of the transportation, cost of the supervisor and co-supervisor work and other stuff that could be needed for the project.
+As I consider that these costs are difficult to estimate, I will not consider them in this project.
+\section{Cost estimates}
+Now that all costs are identifies, here I will estimate the cost of each one, considering the duration of the project and the cost of each resource.
+\subsection*{Hardware}
+I will consider a standard price for a good laptop, that is around 1000 euros.
+Obviously a laptop have a longer life than the project duration, so I will consider the cost of the laptop as a cost that is distributed in time, amortization.
+$$
+\text{Amortization} = \text{Laptop Cost} \cdot \frac{\text{Project Duration}}{\text{Laptop Lifespan}}
+$$ 
+Normaly, laptops have a lifespan of 3 to 5 years with a avegare of 40 hours per week, so I will consider 4 years, 40 hours per week as the lifespan of the laptop. \cite{}
+Also I will consider that the whole project will need the laptop, so there will be a total of 460 hours. 
+$$
+\text{Amortization} = 1000 \text{€} \cdot \frac{460 \text{hours}}{4 \text{years} \cdot 52 \frac{\text{weeks}}{\text{year}} \cdot 40 \frac{\text{hours}}{\text{week}}} = 55,29 \text{€}
+$$
+\subsection*{Software}
+All the software that I will use is free \cite{}. So the total amount of money spend in software will be 0€.
+\subsection*{Human resources}
+I will be tacking the average salary of each role from glassdoor \cite{GlassDoorResearcher} \cite{GlassdoorProjectManager}\cite{GlassdoorSoftwareDeveloper}, a well known website for job search and salary information.
+We will check Spain salaries and we will consider 2000 hours per year.
+Here we can see the cost of the human resources, assuming a social security multiplier of 1.3.
+
+\begin{table}[H]
+    \begin{adjustwidth}{-1in}{-1in} % Adjust margins by -1 inch on both sides
+    \centering
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+    \textbf{Role} & \textbf{Avg. Salary (€/h)} & \textbf{Hours} & \textbf{Total (€)} & \textbf{Total with Social Security (€)} \\ 
+    \hline
+    Researcher & 15 & 85 hours & 1275 & 1657.5\\
+    \hline
+    Haskell Developer & 18 & 200 hours & 3600 & 4680\\
+    \hline
+    Project Manager & 20 & 175 hours & 3500 & 4550\\
+    \hline
+    \hline
+    \textbf{Total} & 18.2 & 460 & 8375 &  10887.5\\
+    \hline
+    \end{tabular}
+    \caption{Human Resources Cost, self elaborated}
+    \label{human_resources}
+    \end{adjustwidth}
+    \end{table}
+\subsection*{Risk plan}
+Some risks may appear during the project, so I will add some extra money to the budget to cover it.
+\begin{enumerate}
+    \item Laptop damage: The laptop could be damaged and need to be repaired. I will consider 100€ for this risk.
+    \item Extra hours: The project could take more time than expected and each hour of the workers is so expensive. Considering 10 \% more time, gives us 837 €, so I will add 1000€ to the budget.
+    \item For other risks and unexpected costs, I will add 10 \% of the total budget, to cover it, 1100 €.
+\end{enumerate}
+Puting all together, the total amount of money for the unexpected costs is 2037 €.
+\subsection*{Total budget}
+Lets sumarize all the costs and calculate the total budget.
+\begin{table}[H]
+    \begin{adjustwidth}{-1in}{-1in} % Adjust margins by -1 inch on both sides
+    \centering
+    \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Source} & \textbf{Cost (€)} \\ 
+    \hline
+    Hardware &  55,29 \\
+    \hline
+    Software & 0 \\
+    \hline
+    Human Resources & 10887.5 \\
+    \hline
+    Unexpected & 2037 \\
+    \hline
+    \hline
+    \textbf{Total} & \textbf{12979.79}  \\
+    \hline
+    \end{tabular}
+    \caption{Total budget, self elaborated}
+    \label{total_budget}
+    \end{adjustwidth}
+    \end{table}
+\section{Management control}
+Once we have our budget, I can create a indicator so I can monitor the deviation from the initial plan.
+This indicator (C) will be the difference between the expected and actual cost:
+$$
+C = C_estimado - C_real
+$$ 
+I can use this indicator both in a general way and with each subsection of the budget, in order to be able to analyze what may be causing a variation in the budget and be able to fix it, either by modifying the budget itself or by restructuring the project.
+\chapter{Sustainability report}
+\section{Economic Dimension}
+After analized my project and made the budget, we can observe that the main cost of the project is the human resources.
+Asuming that my plannign is correct, I can confirm that no unnecessary costs are being generated, beacause I'm using free software and the minimun hardware required.
+Also this project have the goal of improving an implementation of an algorithm, meaning a possible improvement in the efficiency of the algorithm, which could lead to a reduction in time, which means a reduction of the cost.
+\section{Environmental Dimension}
+As mentioned before, the only environmental impact of the project is the energy consumed by the laptop. 
+The energy and impact are minimum, so we can consider this project as environmentally friendly.
+Also as previous point, the project could lead to a reduction in time, which means a reduction of the energy consumed.
+A good point about projects like mine is that their useful life can be considered 'unlimited'.
+This is because it is a research and development project, providing utility at all times.
+\section{Social Dimension}
+In personal terms, I think it will have a great impact on my life and career as a student, since this project will be the first 'big project', which will help me learn from mistakes for future projects.
+This project may not have a big social impact, but it can do your part in the world of computing and especially in the world of Haskell programming.

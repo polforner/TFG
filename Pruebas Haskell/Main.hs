@@ -1,4 +1,4 @@
---Este es el primer Main funcional
+--Main with array input and console output
 
 {-# LANGUAGE 
     ConstraintKinds,
@@ -51,9 +51,6 @@ input = [
         ,"aixo","es","que","tal","."
         ,"hola","hola","hola","hola","."
         ]
-
---SOURCE--
---Aixo es la definicio de la font de la pipeline, utilitza el combinador per generar una font
 source' :: Stage (WriteChannel ([Char],Int) -> DP s ())
 source' = withSource @DPExample $ \cout -> unfoldT input cout makePair
 
@@ -71,7 +68,6 @@ genAction :: Filter DPExample ([Char],Int) ([Char],Int) s
           -> WriteChannel ([Char],Int)
           -> DP s ()
 genAction filter' cin cout = 
-  --let unfoldFilter = mkUnfoldFilterForAll' (flip push cout) filter' identity cin HNil 
   let unfoldFilter = mkUnfoldFilter makeFilter (decideIfPrint cout) filter' iniFilter cin HNil 
   in void $ unfoldF unfoldFilter
 

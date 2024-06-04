@@ -1,4 +1,4 @@
---Aquest segon main ja funciona amb inputs tipus arxiu, pero amb format una paraula per linia
+--Main with file input with one word per line and console output
 {-# LANGUAGE 
     ConstraintKinds,
     DataKinds,
