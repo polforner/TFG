@@ -1,8 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Incremental Algorithms for Large Problems
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-  - family-names: Forner Gomez
-    given-names: Pol
-title: "Incremental algorithms for large problems"
-version: 2.0.4
-date-released: 2024-07-01
+  - given-names: Pol
+    family-names: Forner Gomez
+    email: polforner@gmail.com
+repository-code: 'https://github.com/polforner/TFG'
