@@ -37,7 +37,6 @@
     TypeOperators,
     TypeFamilies
 #-}
-
 import DynamicPipeline
 import Relude as R
 import Relude.Unsafe as U
@@ -45,13 +44,12 @@ import GHC.IO.Handle as H
 import Data.ByteString as B
 import Data.Text as T
 import Data.Time
-
 --Aixo es la definicio del typus de la pipeline
 type DPExample = Source (Channel ( (ByteString,Int) :<+> Eof)) :=> Generator (Channel ((ByteString,Int):<+> Eof)) :=> Sink
 
 input :: [Char]
---input = "test4.txt"
-input = "salida.txt"
+input = "test4.txt"
+--input = "salida.txt"
 
 output :: [Char]
 output = "output.txt"
@@ -74,10 +72,6 @@ hGetchar h = do
 
 convert :: ByteString -> (ByteString,Int)
 convert bs = (bs,0)
-
-makeitSafe :: Maybe ByteString -> ByteString
-makeitSafe (Just a) = a
-makeitSafe Nothing = ""
 
 --GENERATOR--
 generator' :: GeneratorStage DPExample (ByteString,Int) (ByteString,Int) s
@@ -121,8 +115,12 @@ actorRepeted (par,x) rc wc = foldM_ rc $ \(inp, y) -> if inp == "."
                                                               else push (inp, y) wc
 --SINK--
 sink' :: Stage (ReadChannel (ByteString,Int) -> DP s ())
---sink' = withSink @DPExample $ flip foldM_ print
-sink' = withSink @DPExample $ flip foldM_ (R.appendFileText output . showPair)
+sink' = withSink @DPExample $ foldFile output showPair
+
+foldFile:: MonadIO m => FilePath -> (a -> Text) -> ReadChannel a -> m ()
+foldFile file f rc = do
+  writeFileText file T.empty
+  foldM_ rc (R.appendFileText file . f)
 
 showPair :: (ByteString,Int) -> Text
 showPair (".",x) = "*******************************\n"

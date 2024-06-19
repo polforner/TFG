@@ -1,0 +1,342 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{juan_pablo_royo_sales_incremental_2021}{article}{}
+      \name{author}{1}{}{%
+        {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelimb Pablo\bibnamedelima Royo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{fullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{bibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorbibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authornamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorfullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{Incremental Algorithm for large Netwotks}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{file}
+      \verb Pasarella y Vidal - FACULTAT D'INFORMA` TICA DE BARCELONA (FIB) UNIVER.pdf:C\:\\Users\\polfo\\Zotero\\storage\\9S3FB9YR\\Pasarella y Vidal - FACULTAT D’INFORMA` TICA DE BARCELONA (FIB) UNIVER.pdf:application/pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://upcommons.upc.edu/bitstream/handle/2117/361615/163090.pdf?sequence=1
+      \endverb
+      \verb{url}
+      \verb https://upcommons.upc.edu/bitstream/handle/2117/361615/163090.pdf?sequence=1
+      \endverb
+    \endentry
+    \entry{sharp_incremental_2007}{book}{}
+      \name{author}{1}{}{%
+        {{hash=c29a45f728fc8f0fb6d7774487094430}{%
+           family={Sharp},
+           familyi={S\bibinitperiod},
+           given={Alexa\bibnamedelima Megan},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Citeseer}%
+      }
+      \strng{namehash}{c29a45f728fc8f0fb6d7774487094430}
+      \strng{fullhash}{c29a45f728fc8f0fb6d7774487094430}
+      \strng{bibnamehash}{c29a45f728fc8f0fb6d7774487094430}
+      \strng{authorbibnamehash}{c29a45f728fc8f0fb6d7774487094430}
+      \strng{authornamehash}{c29a45f728fc8f0fb6d7774487094430}
+      \strng{authorfullhash}{c29a45f728fc8f0fb6d7774487094430}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Incremental algorithms: solving problems in a changing world}
+      \field{year}{2007}
+      \field{dateera}{ce}
+    \endentry
+    \entry{noauthor_what_nodate}{online}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{If you are just getting started, think of Scrum as a way to get work done as a team in small pieces at a time, with continuous experimentation and feedback loops along the way to learn and improve as you go. Scrum helps people and teams deliver value incrementally in a collaborative way. As an agile framework, Scrum provides just enough structure for people and teams to integrate into how they work, while adding the right practices to optimize for their specific needs. You may be thinking, that sounds great! But, how do I get started?}
+      \field{langid}{english}
+      \field{shorttitle}{What is Scrum?}
+      \field{title}{What is Scrum? {|} Scrum.org}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\TN37CXWJ\\what-scrum-module.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.scrum.org/resources/what-scrum-module
+      \endverb
+      \verb{url}
+      \verb https://www.scrum.org/resources/what-scrum-module
+      \endverb
+    \endentry
+    \entry{noauthor_git_nodate}{online}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labeltitlesource}{title}
+      \field{title}{Git}
+      \field{urlday}{27}
+      \field{urlmonth}{2}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Git:C\:\\Users\\polfo\\Zotero\\storage\\IRX5XLYA\\git-scm.com.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://git-scm.com/
+      \endverb
+      \verb{url}
+      \verb https://git-scm.com/
+      \endverb
+    \endentry
+    \entry{herrero_facultat_nodate}{article}{}
+      \name{author}{1}{}{%
+        {{hash=a15e5255fbe7b20e626fb3d15137ebf6}{%
+           family={Herrero},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{fullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{bibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authorbibnamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authornamehash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \strng{authorfullhash}{a15e5255fbe7b20e626fb3d15137ebf6}
+      \field{sortinit}{6}
+      \field{sortinithash}{b33bc299efb3c36abec520a4c896a66d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{title}{{FACULTAT} {INFORMATICA} {DE} {BARCELONA} ({FIB}) {UNIVERSITAT}}
+      \verb{file}
+      \verb Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:C\:\\Users\\polfo\\Zotero\\storage\\RM8CI4DI\\Herrero - FACULTAT INFORMATICA DE BARCELONA (FIB) UNIVERSITA.pdf:application/pdf
+      \endverb
+    \endentry
+    \entry{noauthor_haskell_nodate}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{title}
+      \field{title}{Haskell}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Haskell:C\:\\Users\\polfo\\Zotero\\storage\\TCTEGGXW\\Haskell.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.cs.upc.edu/~jpetit/Haskell/#1
+      \endverb
+      \verb{url}
+      \verb https://www.cs.upc.edu/~jpetit/Haskell/#1
+      \endverb
+    \endentry
+    \entry{sales_jproyodynamic-pipeline_2021}{software}{}
+      \name{author}{1}{}{%
+        {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelimb Pablo\bibnamedelima Royo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{fullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{bibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorbibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authornamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorfullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{7}
+      \field{note}{original-date: 2021-03-27T11:12:27Z}
+      \field{title}{jproyo/dynamic-pipeline}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/jproyo/dynamic-pipeline
+      \endverb
+      \verb{url}
+      \verb https://github.com/jproyo/dynamic-pipeline
+      \endverb
+    \endentry
+    \entry{pol_polfornertfg_2024}{software}{}
+      \name{author}{1}{}{%
+        {{hash=141146f6421f3d59ae5d77b1beb72efb}{%
+           family={Pol},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{141146f6421f3d59ae5d77b1beb72efb}
+      \strng{fullhash}{141146f6421f3d59ae5d77b1beb72efb}
+      \strng{bibnamehash}{141146f6421f3d59ae5d77b1beb72efb}
+      \strng{authorbibnamehash}{141146f6421f3d59ae5d77b1beb72efb}
+      \strng{authornamehash}{141146f6421f3d59ae5d77b1beb72efb}
+      \strng{authorfullhash}{141146f6421f3d59ae5d77b1beb72efb}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{4}
+      \field{month}{3}
+      \field{note}{original-date: 2024-03-04T09:51:17Z}
+      \field{title}{polforner/{TFG}}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/polforner/TFG
+      \endverb
+      \verb{url}
+      \verb https://github.com/polforner/TFG
+      \endverb
+    \endentry
+    \entry{noauthor_what_nodate-1}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How long is your new, or used, computer supposed to last? Learn more about the average computer lifespan and advice on how to extend the longevity of your {PC}.}
+      \field{langid}{english}
+      \field{title}{What is the Average Lifespan of a Computer?}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\SBBPTQUR\\average-computer-lifespan.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
+      \endverb
+      \verb{url}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Researcher is \$30,000 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Researcher in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\4I2NF74K\\spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024-1}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Project Manager is \$40,000 per year in Madrid, Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Project Manager in Madrid, Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024-2}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Software Developer is \$33,500 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{1}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Software Developer in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\97TNRJIQ\\spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

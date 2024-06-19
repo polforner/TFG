@@ -1,0 +1,56 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Task Dependencies for Project definition and planning, self elaborated}}{8}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Task Dependencies for Research and Learning, self elaborated}}{9}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Task Dependencies for First Algorithm Development, self elaborated}}{9}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Task Dependencies for Second Algorithm Development, self elaborated}}{10}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Task Dependencies for Documentation, self elaborated}}{11}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Gantt Diagram of this project, self elaborated}}{13}{figure.2.6}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Initial structure of a Dynamic Pipeline, self-made with Canva}}{25}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Posible state of a Dynamic Pipeline, self-made with Canva}}{25}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Some data types provided by the library}}{26}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Some combinators provided by the library}}{27}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Function to get a Source stage}}{27}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces Functions provided by library to fill channels}}{28}{figure.6.6}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Function to get a Sink stage}}{29}{figure.6.7}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces Functions provided by library to read channels}}{29}{figure.6.8}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces Function to get a Generator stage}}{30}{figure.6.9}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces Functions provided by library to read channels}}{31}{figure.6.10}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces mkFilter smart constructor}}{32}{figure.6.11}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces Some functions to implemet the actors}}{32}{figure.6.12}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces Function to create a filter with N actors}}{33}{figure.6.13}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces mkGenerator combinator}}{33}{figure.6.14}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces mkDP combinator}}{33}{figure.6.15}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces runDP function for runing a DP}}{34}{figure.6.16}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces Functions to implement for a DP}}{35}{figure.6.17}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces Grafic representation of the Source stage}}{36}{figure.6.18}%
+\contentsline {figure}{\numberline {6.19}{\ignorespaces Grafic representation of the Sink stage}}{37}{figure.6.19}%
+\contentsline {figure}{\numberline {6.20}{\ignorespaces Initial state of the Dynamic Pipeline}}{38}{figure.6.20}%
+\contentsline {figure}{\numberline {6.21}{\ignorespaces State of Dynamic Pipeline after consuming some words}}{38}{figure.6.21}%
+\contentsline {figure}{\numberline {6.22}{\ignorespaces State of Dynamic Pipeline before the '.' is processed by filters}}{38}{figure.6.22}%
+\contentsline {figure}{\numberline {6.23}{\ignorespaces State of Dynamic Pipeline before the the second filter processes the '.'}}{39}{figure.6.23}%
+\contentsline {figure}{\numberline {6.24}{\ignorespaces Final state of the Dynamic Pipeline}}{39}{figure.6.24}%
+\contentsline {figure}{\numberline {6.25}{\ignorespaces Type definition of the Dynamic Pipeline}}{39}{figure.6.25}%
+\contentsline {figure}{\numberline {6.26}{\ignorespaces Implementation of fillChannels function}}{40}{figure.6.26}%
+\contentsline {figure}{\numberline {6.27}{\ignorespaces Implementation of readChannels function}}{40}{figure.6.27}%
+\contentsline {figure}{\numberline {6.28}{\ignorespaces Implementation of actor}}{41}{figure.6.28}%
+\contentsline {figure}{\numberline {6.29}{\ignorespaces Implementation of generator}}{42}{figure.6.29}%
+\contentsline {figure}{\numberline {6.30}{\ignorespaces unfoldFilebyChars function}}{43}{figure.6.30}%
+\contentsline {figure}{\numberline {6.31}{\ignorespaces unfoldFilebyChars function usage}}{43}{figure.6.31}%
+\contentsline {figure}{\numberline {6.32}{\ignorespaces unfoldFilebyWords function}}{44}{figure.6.32}%
+\contentsline {figure}{\numberline {6.33}{\ignorespaces unfoldFilebyWords function usage}}{44}{figure.6.33}%
+\contentsline {figure}{\numberline {6.34}{\ignorespaces pushState function}}{45}{figure.6.34}%
+\contentsline {figure}{\numberline {6.35}{\ignorespaces pushState function usage}}{45}{figure.6.35}%
+\contentsline {figure}{\numberline {6.36}{\ignorespaces foldFile function}}{45}{figure.6.36}%
+\contentsline {figure}{\numberline {6.37}{\ignorespaces foldFile function usage}}{45}{figure.6.37}%
+\contentsline {figure}{\numberline {6.38}{\ignorespaces Console output after compiling DynamicPipeline.hs with GHC 9.0.2}}{46}{figure.6.38}%
+\contentsline {figure}{\numberline {6.39}{\ignorespaces Piece of code generating the error}}{46}{figure.6.39}%
+\contentsline {figure}{\numberline {6.40}{\ignorespaces New version of the code}}{47}{figure.6.40}%
+\contentsline {figure}{\numberline {6.41}{\ignorespaces Second console output after compiling DynamicPipeline.hs with GHC 9.0.2}}{47}{figure.6.41}%
+\contentsline {figure}{\numberline {6.42}{\ignorespaces New version of the code}}{47}{figure.6.42}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Data type definitions of IEBT implementation}}{49}{figure.7.1}%

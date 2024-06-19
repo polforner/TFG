@@ -1,0 +1,77 @@
+\chapter{Improving the IEBT algotihm}
+This is the second part of my work, where I will try to find and argue for different improvements for the implementation of the algorithm for incremental enumeration of Bitriagles (IEBT).
+This implementation developed by Juan Pablo uses the Dynamic Pipeline library with which I have been working.
+The entire first part of my work has been necessary to fully understand the operation of both the dynamic pipeline paradigm itself and the operation of the Haskell library.
+
+\section{Improving th structures}
+The first topic I wanted to address was the data types used to store the different sets.
+The algorithm needs to store different vertex structures for later matching.
+These are the different definitions found in the code:
+
+\begin{figure}[ht]
+    %\centering
+    \begin{tabular}{c}
+        \begin{lstlisting}[escapeinside={(*}{*)}]
+type LowerVertex = Int
+type UpperVertex = Int
+type Edge = (UpperVertex, LowerVertex)
+
+data Command = ByVertex IntSet
+            | ByEdge (Set Edge)
+            | Count
+            | AllBT
+            | NoCommand
+            | End
+        deriving (Show, Read)
+
+data W = W
+  { _wLowerVertex :: LowerVertex
+  , _wWedges      :: IntSet
+  }
+  deriving Show
+
+data Triplet = Triplet Int Int Int
+data Pair = Pair Int Int
+
+type UT = (IntSet, IntSet, IntSet)
+
+data DW = DW
+  { _dwLower :: Pair
+  , _dwUpper :: UT
+  }
+
+newtype DWTT = DWTT [DW]
+  deriving newtype (Semigroup, Monoid)
+
+data BT = BT
+  { _btLower :: Triplet
+  , _btUpper :: UT
+  }
+
+newtype BTTT = BTTT [BT]
+  deriving newtype (Semigroup, Monoid)
+
+data BTResult = RBT Q (Int, Int, Int, Int, Int, Int, Int)
+              | RC  Q Int
+
+data FilterState = Adj W
+                 | DoubleWedges DWTT
+                 | BiTriangles BTTT
+        \end{lstlisting}
+    \end{tabular}
+    \caption{Data type definitions of IEBT implementation}
+    \label{fig:HC40}
+\end{figure}
+
+
+We can see how it represents vertices with integers Int and edges as tuples of integers (Int, Int).
+The most important thing to analyze are the set representations, as their impact on the performance of the algorithm is crucial.
+It uses the IntSet structure to represent sets of vertices and also a tuple of 3 IntSets (IntSet, IntSet, IntSet) to represent the set of upper vertex of the Aggregated Doble Wedge and Aggregated Bitriangles. \cite[][Page52]{}
+Also taking into account the use of lists to represent the set of Aggregated Double Wedges and Aggregated Bitriangles. \\
+
+We will be analizing structure by structure trying to find if the structure used is the most efficient.
+\subsection{Set of vertices representation}
+The IntSet structure belongs to the Haskell IntSet library \cite[][]{}, which represents an ordered set of Ints.
+This structure is very efficient because it takes advantage of the range limit of Ints to limit many operations to a cost of O(min(n,W)), where n is the number of elements and W is the number of bits in the Int representation (32 or 64)
+Additionally, this structure is based on big-endian patricia trees, which have very good performance for set intersection and union operations.
+

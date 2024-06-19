@@ -1,0 +1,135 @@
+\chapter{Context and Scope}
+To initiate this work, this chapter will address all the necessary concepts to understand the work.
+It will also detail the objectives and requirements, as well as a justification for the work.
+\section{Context}
+\subsection{Introduction of concepts}
+Nowadays, the volume of data generated is immense and, more importantly, it grows continuously.
+Sensors, social networks, and other sources contribute to this ever-increasing data that necessitates processing and analysis to extract valuable information.
+A critical challenge arises when processing this data: traditional methods employed for smaller datasets become inapplicable due to the excessive time and resources required.
+To address this issue, the development of novel algorithms and techniques specifically designed to handle such large data volumes is essential.
+\subsubsection*{Streaming}
+In addition to having all that data, the amount of data normally it can not be stored and it comes in what is called a data stream.
+A data stream is a sequence of data that made available over time, meaning that we can not store all the data and we need to compute it in time.
+For example, a sensor of temperature that sends the temperature every second, a traffic camera that registers all car plates that pass in front of it or just a social network that generates a huge amount of data every second.\\
+This kind of data mentioned before needs to be processed and sometimes the data never ends, so we can not wait to finish to give a result and we must give results along the way.
+\subsubsection*{Incremental algorithms}
+Here is where incremental algorithms come in.\cite{sharp_incremental_2007}
+Incremental algorithms give us the ability to obtain results from subsets of data and then update the results before finishing the whole data.
+This is very useful, because some problems do not need to be solved with all the data or maybe we are not interested in the final result.
+Recovering a previous example, if we are interested in which models of cars drive in certain road, we can use the camera that registers the car plates to get the answer.
+It is stupid to wait until the end of data to give the answer (also because it never ends), so we can give a result when we check it.
+In conclusion, incremental algorithms could be a good approach to solve some problems.
+\subsubsection*{Paralelism}
+One of the most important techniques for dealing with time problem is parallel computing or parallelism.
+Parallelism allows us to divide the work and process it in different machines concurrently, reducing the time needed to process the data.
+When we try to fight against this huge data problems, we must find a solution that can be parallelized given that modern machines have multiple cores and we can use them to process the data.\\
+If we put together streaming and parallelism, it can be distinguished two computational models:
+\begin{itemize}
+    \item \textbf{Data Parallelism} \\ 
+        This model splits the data and processes it in parallel.
+        All the computations that perform some action over a subset of data, do not have any dependency with other parallel computations.
+        This model has the advantage that it can implement stateless algorithms, allowing to split and process the data into different machines without contextual information.
+        Nonetheless, this model has the disadvantage that when we need to be aware of the context, it is penalized.
+    \item \textbf{Pipeline Parallelism:} \\
+        This model splits the computation in different stages and each stage takes the result of the previous stage to make the computation.
+        The parallelization is done by parallelizing the stages.
+        The main advantage is that stages are non-blocking, meaning that we do not need to process all data to execute the next stage.
+        This allows us to make incremental algorithms.
+        In spite of that, the main disadvantage is that one stage could be the bottleneck of the pipeline and delaying all the process.
+    \end{itemize}
+\subsubsection*{Dynamic Pipeline Paradigm}
+Now that we talked about these 3 concepts: incremental algorithms, streaming and parallelism, it can be introduced the next concept that will be the main focus of this project.
+The Dynamic Pipeline Paradigm is a Pipeline Parallelism model "\textit{based on a one-dimensional and unidirectional chain of stages connected by means of channels synchronized by data availability}". \cite*[][Page 9, 2.2]{juan_pablo_royo_sales_incremental_2021}
+This chain is called Dynamic Pipeline and it can grow and shrink with the continuous arrival of data.
+So we can use a data stream to feed the pipeline and it will process the data growing and shrinking the as needed. \\
+With this paradigm we can implement incremental algorithms and process the data in parallel easily.
+
+A more in-depth exploration of this concept will be provided later in this work, accompanied by a detailed explanation. \ref{IDPL}
+\subsection{Problem to be solved}
+In his work, Juan Pablo implemented an incremental algorithm using dynamic Pipeline Paradigm to resolve a graph problem: finding bitriangles in bipartite graphs.
+He decided to implement the algorithm using the functional programming language Haskell, and because of the no existence of one, he created a framework to implement the Dynamic Pipeline paradigm.
+This marks the commencement of the present work.
+The primary objective is to build upon and enhance Juan Pablo's contributions.
+Initially, a thorough study of Juan Pablo's library implementation will be undertaken to gain proficiency in its usage.
+Subsequently, a practical application of the problem will be conducted using a toy problem (a simplified problem) to master the library's functionalities and identify potential improvements and extensions.
+Finally, the implementation of the IEBT algorithm will be refined leveraging the acquired knowledge.
+\subsection{Stakeholders}
+This project has the potential to attract a wide range of stakeholders.
+Firstly, it is of interest to the Haskell user community, as this project introduces enhancements to a Haskell library.
+While the official download page for the library does not reflect a substantial number of downloads, the programming world highly values the availability of examples and diverse developments to streamline the programming process.
+Currently, it is challenging to find sample code for this library beyond Juan Pablo's work.
+Secondly, the research community utilizing the Dynamic Pipeline paradigm stands to benefit.
+When developing an algorithm to address a problem using this paradigm, implementation is often necessary for testing and evaluation purposes.
+Therefore, this project aims to facilitate this task by providing a guide for implementing such problems.
+
+\subsection{Justification}
+Having established the existence of stakeholders for this project, the question arises as to whether it is feasible to enhance the library and refine the IEBT algorithm.
+Several factors support this assertion. \\
+
+Firstly, and most significantly, Juan Pablo himself acknowledged the potential for improvements in both the Haskell library and the algorithm within his own work.
+Secondly, discussions were held with the co-director of this project, Edelmira.
+Edelmira possessed the most profound knowledge of the work, having supervised Juan Pablo's research and, along with her team, actively working within the Dynamic Pipeline paradigm.
+She affirmed the algorithm's merit for further development and the potential for refinements.
+These enhancements revolve around optimizing vertex storage and set operations within the algorithm. \\
+
+In light of these considerations, the justification for undertaking this project is unequivocal.
+\section{Scope}
+This section will delve into the objectives and scope of the work.
+The various requirements, potential obstacles, and risks that may arise will be identified.
+The work methodology that will be followed throughout the project's development will also be detailed.
+\subsection{Objectives}
+This project has the following main objectives:
+\begin{list}{-}{}
+    \item \textbf{Improving DP Haskell Library:} The first goal of this project is to improve the Haskell library made by Juan Pablo.
+    \item \textbf{Improve Juan Pablo's algorithm:} The second goal is to improve the implementation of the algorithm mentoined before.
+\end{list}
+Apart from these main objectives, I have some sub-objectives that I would like to achieve at the end of the project:
+\begin{list}{-}{}
+    \item Learn about the dynamic pipeline paradigm.
+    \item Improve my Haskell skills, from my actual basic level to a competent level.
+    \item Learn about the inner workings of the Haskell programming language.
+    \item Acquire knowledge of how to do a bachelor degree project for future projects like master thesis.
+\end{list}
+\subsection{Requirements}
+For the correct development and validity of my final result, it is necessary that my final implementation solves all cases correctly and more efficiently on average than the implementation from which we started.
+It is also important to follow a correct and modular structure to facilitate possible modification.
+My optimization has to be in line with known improvements and must be correctly validated.
+My solution also has to be understandable and adaptable, in order to improve its reuse and sharing.
+As for the code, I have to make sure it is well documented.
+Finally, it is necessary that all Haskell functionalities used are updated and supported
+\subsection{Potential obstacles and risks}
+Its needed to identify the potential obstacles and risks that may arise during the project.
+This is important to be able to anticipate and mitigate them.
+Here are the principal ones that I have identified:
+\subsubsection*{Time Limit}
+I will say that this is one of the most important risks, because as there is a deadline to finish the project, an inconvenience can make to not finish the project.
+Poor time management could necessitate a reassessment of the project's scope and a potential reduction in its deliverables.
+Nevertheless, this potential risk is acknowledged, and a corresponding plan will be developed, breaking down tasks into smaller, more manageable units to accommodate changes and avoid an empty-handed conclusion.
+\subsubsection*{Dynamic pipeline framework}
+I did not use and examined the framework and a problem that worries me is that the framework has some bugs or is not well implemented.
+This can potentially make me lose a lot of time but as I check, Pablo did a good work documenting it so I trust that I will not have a lot of problems.
+
+\section{Methodology and rigor}
+\subsection{Methodology}
+For this project, I will following a methodology based on the Scrum methodology, as I have always work with it and I have had good results.
+Originaly, Scrum \cite{noauthor_what_nodate} was designed for team work, but I will going to take the idea and adapt it to my project, that only I do it individually. \\
+
+Scrum is a methodology that is based on the iterative and incremental development of the project, where the project is divided into small tasks that are done in a short period of time called sprint.
+This sprints have 3 main phases: planning, development and review.
+Taking this concepts into acount, I will divide the project into tasks and I will be following 1 week sprints.
+It will help me keep good control of the pace of the project and not fall asleep or fall behind.
+Apart from the experience using this methodology, another of the main reasons for using it is the potential to redirect the project in case of possible problems, as I consider crucial.
+\subsection{Project monitoring and validation}
+As good programming practices, I will be using git \cite{noauthor_git_nodate} to control the versions of the code.
+This will allow me to have a backup of the code and a practical way to a acces to previous versions.
+Also, I will be using Trello as a task manager, to keep track of the tasks and the progress of the project.
+Trello is very useful and combines very well with the methodology that I have chosen, since I will be able to have a record of the tasks to be done and the tasks completed. \\
+
+To validate all about the Haskell work, I will be asking and following Gerard advice. 
+Since Gerard has a great level of Haskell language, he will be able to help me validate that I follow a good structure and use of Haskell.
+Finally, facing the end of the project, Edelmira will help me with the correction and validation of the improvement and implementation of the algorithm.
+
+
+
+
+

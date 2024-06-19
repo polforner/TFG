@@ -23,7 +23,7 @@ with open(r'C:\Users\polfo\Documents\UNI\TFG\Pruebas Haskell\quijote.txt', 'r', 
 # Procesa el texto
 resultado = texto_a_ascii(texto_entrada)
 
-n = 100000
+n = 10000
 # Abre el archivo de salida y escribe el resultado
 with open(r'C:\Users\polfo\Documents\UNI\TFG\Pruebas Haskell\salida.txt', 'w', encoding='utf-8') as f:
     f.write(resultado[:n])

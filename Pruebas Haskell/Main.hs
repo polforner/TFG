@@ -67,9 +67,9 @@ genAction :: Filter DPExample ([Char],Int) ([Char],Int) s
           -> ReadChannel ([Char],Int)
           -> WriteChannel ([Char],Int)
           -> DP s ()
-genAction filter' cin cout = 
+genAction filter' cin cout = do
   let unfoldFilter = mkUnfoldFilter makeFilter (decideIfPrint cout) filter' iniFilter cin HNil 
-  in void $ unfoldF unfoldFilter
+  void $ unfoldF unfoldFilter
 
 makeFilter:: ([Char],Int) -> Bool
 makeFilter (".",_) = False  

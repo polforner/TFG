@@ -1,0 +1,50 @@
+Afegir a Flow.hs:
+{-# LANGUAGE TypeOperators #-}
+{-# LANGUAGE ExplicitNamespaces #-}
+
+Instal·lar:
+cabal install --lib unagi-chan
+cabal install --lib lens
+cabal install --lib bytestring
+cabal install --lib HList
+cabal install --lib relude
+
+Afegir a Channel.hs i Flow.hs:
+{-# LANGUAGE NoImplicitPrelude #-}
+
+Afegir a Flow.hs: 
+{-# LANGUAGE DataKinds #-}
+{-# LANGUAGE TemplateHaskell #-}
+{-# LANGUAGE RecordWildCards #-}
+{-# LANGUAGE TypeFamilies #-}
+
+import Data.Proxy (Proxy)
+import Data.Kind (Type)
+import GHC.Exts (Constraint)
+
+Instal·lar:
+cabal install --lib async
+
+Afegir a Flow.hs: 
+{-# LANGUAGE DerivingStrategies #-}
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
+{-# OPTIONS_GHC -Wno-partial-type-signatures #-}
+{-# OPTIONS_GHC -Wno-deprecations #-}
+
+Afegir a Stage.hs: 
+{-# LANGUAGE DerivingStrategies #-}
+{-# LANGUAGE GeneralizedNewtypeDeriving #-}
+{-# LANGUAGE DataKinds #-}
+{-# LANGUAGE TemplateHaskell #-}
+{-# LANGUAGE RecordWildCards #-}
+{-# LANGUAGE TypeFamilies #-}
+{-# LANGUAGE FunctionalDependencies #-}
+{-# OPTIONS_GHC -Wno-partial-type-signatures #-}
+
+Afegir a Stage.hs
+runDP :: forall {k} (st :: k) a. DP st a -> IO a
+
+newtype Actor dpDefinition filterState filterParam monadicAction =
+  Actor {  unActor :: Stage (WithFilter dpDefinition filterParam monadicAction) }
+
+
