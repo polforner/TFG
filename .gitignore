@@ -1,7 +1,6 @@
 /Examples
 /TFM Juan Pablo
-/PruebasHaskell/project
-/PruebasHaskell/.stack-work
-/PruebasHaskell/experiments/IEBT/bt-graph-dpNew/experiments
-/PruebasHaskell/experiments/IEBT/bt-graph-dpOld/experiments
+/Code/.stack-work
+/Code/experiments/IEBT/bt-graph-dpNew/experiments
+/Code/experiments/IEBT/bt-graph-dpOld/experiments
 /doc/Final/build
