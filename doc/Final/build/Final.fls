@@ -1400,6 +1400,13 @@ INPUT input\Conclusions.tex
 INPUT .\input\Conclusions.tex
 INPUT .\input\Conclusions.tex
 INPUT input\Conclusions.tex
+INPUT .\input\Appendix.tex
+INPUT .\input\Appendix.tex
+INPUT .\input\Appendix.tex
+INPUT input\Appendix.tex
+INPUT .\input\Appendix.tex
+INPUT .\input\Appendix.tex
+INPUT input\Appendix.tex
 INPUT c:\Users\polfo\Documents\UNI\TFG\doc\Final\build\Final.aux
 INPUT c:\Users\polfo\Documents\UNI\TFG\doc\Final\build\Final.out
 INPUT c:\Users\polfo\Documents\UNI\TFG\doc\Final\build\Final.out

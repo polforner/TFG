@@ -67,3 +67,4 @@
 \contentsline {chapter}{\numberline {9}Conclusions and future work}{57}{chapter.9}%
 \contentsline {section}{\numberline {9.1}Conclusions}{57}{section.9.1}%
 \contentsline {section}{\numberline {9.2}Future work}{57}{section.9.2}%
+\contentsline {chapter}{\numberline {A}A How to run experiments}{59}{appendix.A}%
