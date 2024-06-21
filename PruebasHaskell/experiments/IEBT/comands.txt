@@ -1,0 +1,1 @@
+stack exec bt-graph-dp -- +RTS -A1G -H1G -N6 -c -RTS -f ../1000.txt -c ../Q1000.txt -e 1000 

@@ -1,0 +1,312 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{royo_sales_algorithm_2021}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=c78e69c0bd1e8419bd94e0c94fd91f7e}{%
+           family={Royo\bibnamedelima Sales},
+           familyi={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Juan\bibnamedelima Pablo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {{UPC}, Facultat d'Informàtica de Barcelona, Departament de Ciències de la Computació}%
+      }
+      \strng{namehash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \strng{fullhash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \strng{bibnamehash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \strng{authorbibnamehash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \strng{authornamehash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \strng{authorfullhash}{c78e69c0bd1e8419bd94e0c94fd91f7e}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{10}
+      \field{title}{An algorithm for incrementally enumerating bitriangles in large bipartite networks}
+      \field{type}{phdthesis}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/2117/361615
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/2117/361615
+      \endverb
+    \endentry
+    \entry{herrero_bravo_experimental_2024}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=49369d64a0f285f7c2ff0d61413932ff}{%
+           family={Herrero\bibnamedelima Bravo},
+           familyi={H\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {{UPC}, Facultat d'Informàtica de Barcelona, Departament de Ciències de la Computació}%
+      }
+      \strng{namehash}{49369d64a0f285f7c2ff0d61413932ff}
+      \strng{fullhash}{49369d64a0f285f7c2ff0d61413932ff}
+      \strng{bibnamehash}{49369d64a0f285f7c2ff0d61413932ff}
+      \strng{authorbibnamehash}{49369d64a0f285f7c2ff0d61413932ff}
+      \strng{authornamehash}{49369d64a0f285f7c2ff0d61413932ff}
+      \strng{authorfullhash}{49369d64a0f285f7c2ff0d61413932ff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{1}
+      \field{title}{An Experimental Guided Approach To The Metric Dimension on Different Graph Families}
+      \field{type}{phdthesis}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb http://hdl.handle.net/2117/407759
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/2117/407759
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024}{online}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Researcher is \$30,000 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{10}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Researcher in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\4I2NF74K\\spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-researcher-salary-SRCH_IL.0,5_IN219_KO6,16.htm
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024-1}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Project Manager is \$40,000 per year in Madrid, Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{11}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Project Manager in Madrid, Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/madrid-project-manager-salary-SRCH_IL.0,6_IM1030_KO7,22.htm
+      \endverb
+    \endentry
+    \entry{noauthor_salary_2024-2}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{The average salary for a Software Developer is \$33,500 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
+      \field{day}{1}
+      \field{langid}{english}
+      \field{month}{3}
+      \field{shorttitle}{Salary}
+      \field{title}{Salary: Software Developer in Spain 2024}
+      \field{titleaddon}{Glassdoor}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\97TNRJIQ\\spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+      \verb{url}
+      \verb https://www.glassdoor.com/Salaries/spain-software-developer-salary-SRCH_IL.0,5_IN219_KO6,24.htm
+      \endverb
+    \endentry
+    \entry{noauthor_dataintset_nodate}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{title}{Haskell IntSet}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \verb{file}
+      \verb Data.IntSet:C\:\\Users\\polfo\\Zotero\\storage\\K93WCVP8\\Data-IntSet.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://hackage.haskell.org/package/containers-0.7/docs/Data-IntSet.html
+      \endverb
+      \verb{url}
+      \verb https://hackage.haskell.org/package/containers-0.7/docs/Data-IntSet.html
+      \endverb
+    \endentry
+    \entry{forner_gomez_source_nodate}{software}{}
+      \name{author}{1}{}{%
+        {{hash=8a2e262482574864bf8b6c52f337b920}{%
+           family={Forner\bibnamedelima Gomez},
+           familyi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Pol},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{fullhash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{bibnamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authorbibnamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authornamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authorfullhash}{8a2e262482574864bf8b6c52f337b920}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Source Code Repository}
+      \verb{urlraw}
+      \verb https://github.com/polforner/TFG
+      \endverb
+      \verb{url}
+      \verb https://github.com/polforner/TFG
+      \endverb
+    \endentry
+    \entry{sales_jproyodynamic-pipeline_2021}{software}{}
+      \name{author}{1}{}{%
+        {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelimb Pablo\bibnamedelima Royo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \strng{namehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{fullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{bibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorbibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authornamehash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \strng{authorfullhash}{ebfe351043768e1ac1da69243bf2f4d3}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{21}
+      \field{month}{7}
+      \field{note}{original-date: 2021-03-27T11:12:27Z}
+      \field{title}{jproyo/dynamic-pipeline}
+      \field{urlday}{4}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://github.com/jproyo/dynamic-pipeline
+      \endverb
+      \verb{url}
+      \verb https://github.com/jproyo/dynamic-pipeline
+      \endverb
+    \endentry
+    \entry{noauthor_what_nodate}{online}{}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labeltitlesource}{title}
+      \field{abstract}{How long is your new, or used, computer supposed to last? Learn more about the average computer lifespan and advice on how to extend the longevity of your {PC}.}
+      \field{langid}{english}
+      \field{title}{What is the Average Lifespan of a Computer?}
+      \field{urlday}{11}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb Snapshot:C\:\\Users\\polfo\\Zotero\\storage\\SBBPTQUR\\average-computer-lifespan.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
+      \endverb
+      \verb{url}
+      \verb https://www.hp.com/in-en/shop/tech-takes/post/average-computer-lifespan
+      \endverb
+    \endentry
+    \entry{noauthor_glasgow_nodate}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{Glasgow Haskell Compiler 9.0.1 User's Guide}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb 2.1. Version 9.0.1 — Glasgow Haskell Compiler 9.0.1 User's Guide:C\:\\Users\\polfo\\Zotero\\storage\\GURMWR2F\\9.0.1-notes.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://downloads.haskell.org/ghc/9.0.1/docs/html/users_guide/9.0.1-notes.html
+      \endverb
+      \verb{url}
+      \verb https://downloads.haskell.org/ghc/9.0.1/docs/html/users_guide/9.0.1-notes.html
+      \endverb
+    \endentry
+    \entry{noauthor_boe--2011-9617_nodate}{online}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{title}{{BOE}-A-2011-9617 Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.}
+      \field{urlday}{19}
+      \field{urlmonth}{6}
+      \field{urlyear}{2024}
+      \field{urldateera}{ce}
+      \true{nocite}
+      \verb{file}
+      \verb BOE-A-2011-9617 Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.:C\:\\Users\\polfo\\Zotero\\storage\\XPK6URH9\\act.html:text/html
+      \endverb
+      \verb{urlraw}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2011-9617
+      \endverb
+      \verb{url}
+      \verb https://www.boe.es/buscar/act.php?id=BOE-A-2011-9617
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

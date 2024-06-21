@@ -1,0 +1,11 @@
+resolver:
+  url: https://raw.githubusercontent.com/commercialhaskell/stackage-snapshots/master/lts/17/7.yaml
+
+packages:
+- .
+
+extra-deps:
+- dynamic-pipeline-0.3.2.0
+- HList-0.5.0.0
+
+allow-newer: true

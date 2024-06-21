@@ -1,0 +1,82 @@
+\documentclass[a4paper, twoside, 12pt]{report}
+
+%Packages
+\usepackage{graphicx}
+\graphicspath{ {img/} }
+\usepackage{subfigure}
+\usepackage{tikz}
+\usepackage{float}
+\usepackage{multirow}
+\usepackage{pgfgantt}
+\usepackage{epigraph}
+\usepackage{enumitem}
+\usepackage{changepage}
+\usepackage{amsmath} 
+\usepackage{color, colortbl, xcolor}
+\usepackage[ backend=biber, style=ieee, sorting=none]{biblatex}
+\addbibresource{bib/sample.bib}
+\usepackage{cancel}
+\usepackage{listings}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\titleformat{\chapter}{}{}{0em}{\bf\huge}
+\usepackage[a4paper,top=3cm,bottom=3cm,left=2.5cm,right=2.5cm,marginparwidth=1.75cm]{geometry}
+\usepackage{pdfpages}
+\usepackage{makecell}
+\definecolor{darkblue}{rgb}{0,0,0.5}
+\definecolor{darkgreen}{rgb}{0,0.3,0}
+\definecolor{darkpink}{rgb}{0.4,0,0.3}
+\definecolor{graygreen}{rgb}{0.3,0.5,0.3}
+\definecolor{grayblue}{rgb}{0.2,0.2,0.6}
+\definecolor{grayred}{rgb}{0.5,0.2,0.2}
+
+\lstset{
+  frame = single,
+  backgroundcolor=\color{white},
+  basicstyle=\normalsize\ttfamily,
+  breakatwhitespace=false,      
+  breaklines=false,
+  captionpos=b,
+  abovecaptionskip=-3 mm,
+  commentstyle=\itshape\color{graygreen},
+  escapechar={!},
+  keywordstyle=\color{darkblue},
+  language=Haskell,
+  morekeywords={ Set, Tree, Leaf, Node, Applicative, fmap, liftA2, bimap, foldMap
+               , traverse, mappend, pure, Foldable, Traversable, zero, one
+               , Semiring, Semigroup, NonEmpty, sconcat, TSet,
+               , SimplicialSet, TSimplicialSet, Graph, TGraph, LGraph
+               , Map, IsString, fromString },
+  deletekeywords={instance, data, where, class, filter, type, insert, delete, union, map},      % if you want to delete keywords from the given language
+  emph={data, class, instance, where, type},
+  emphstyle=\color{darkpink},
+  numbers=none,                      % where to put the line-numbers; possible values are (none, left, right)
+  stringstyle=\color{grayred},               % show the filename of files included with \lstinputlisting; also try caption instead of title
+  xleftmargin=10pt,
+  aboveskip=8pt,
+  belowskip=4pt,
+  escapeinside={(*}{*)}
+}
+
+\begin{document}
+%\input{FrontPage}
+\includepdf[pages=-]{input/portada.pdf}
+\pagenumbering{roman} 
+\tableofcontents
+\listoffigures
+\listoftables
+
+\input{input/Abstract}
+\pagenumbering{arabic} 
+\input{input/Context&Scope}
+\input{input/Planning}
+\input{input/Budget&Sustainability}
+\input{input/Laws}
+\input{input/Updates}
+\input{input/DPLibrary}
+\input{input/IEBTImproving}
+\input{input/Experiments.tex}
+\input{input/Conclusions}
+\nocite{*}
+\printbibliography
+\end{document}

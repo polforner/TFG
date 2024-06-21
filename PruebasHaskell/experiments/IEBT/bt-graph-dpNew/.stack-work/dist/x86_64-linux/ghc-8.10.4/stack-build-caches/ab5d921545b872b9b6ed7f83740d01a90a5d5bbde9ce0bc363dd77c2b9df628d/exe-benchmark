@@ -1,0 +1,20 @@
+/home/polforner/.ghcup/ghc/8.10.4/lib/ghc-8.10.4/include/ghcversion.h:
+  hash: ddf0d2a5b1862138ade2de39566db63c5db748c6df9abc567bd8b7326ae3838a
+? /mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/.stack-work/dist/x86_64-linux/ghc-8.10.4/build/benchmark/autogen/Paths_bt_graph_dp.hs
+: hash: 4bc5996cccdcbffa6fe7fa9378a53b5551b70c3a88a0c8b3f8b3d29ada95bcce
+? /mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/.stack-work/dist/x86_64-linux/ghc-8.10.4/build/benchmark/autogen/cabal_macros.h
+: hash: 1fcd056f85b11c88faa348e29c1687ab8a7d88e3975cb8b93483b1999cccfef2
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/README.md:
+  hash: c9cefdf528423ff493095ecbafc50dc3f9d03df16912f3d9a0af36bc08f43082
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/app/Benchmark/Main.hs:
+  hash: 178c930010d977d4b1fa4a618dae1fd9ab5e94e051f1e8856267692af5bbe5e3
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/bt-graph-dp.cabal:
+  hash: 2c5b78089d77fd4b878e0a88c1f95cea02d183f8468f8293f9ebfa399f03b2f4
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/package.yaml:
+  hash: 9b7c980329f6ab99edaba1c450ac4ef0aba9d9837715e0fcba0dc8ea2a73e0d5
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/src/BTriangle.hs:
+  hash: 932cf63e1bb094670bfc9379b2ea7a8e1faa5662ed467edd1a457fc388d50c7a
+/mnt/c/Users/polfo/Documents/UNI/TFG/Pruebas Haskell/experiments/IEBT/bt-graph-dpNew/src/Edges.hs:
+  hash: 157ab631a7bc6747d2db531f946c5d741e7b2731bfa0286c85230f290e16af24
+/usr/include/stdc-predef.h:
+  hash: 64fdf694f7b3d51ec6c45c06dcb71ebbe9455742d3ea673012016668853d3bff

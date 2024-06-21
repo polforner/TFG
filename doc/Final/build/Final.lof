@@ -1,0 +1,61 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces [Pla] TD for project definition}}{7}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces [Pla] TD for reserch and learning}}{8}{figure.2.2}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces [Pla] TD for first algorithm development}}{8}{figure.2.3}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces [Pla] TD for second algorithm development}}{9}{figure.2.4}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces [Pla] TD for documentation}}{10}{figure.2.5}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces [Pla] Gantt diagram of the project}}{12}{figure.2.6}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces [Lib] Initia structure of a DP}}{23}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces {[Lib]} Posible structure of a DP}}{23}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces {[Code]}Library data types}}{24}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces {[Code]}Library combinators}}{25}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces {[Code]}withSource combinator}}{25}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces {[Code]}Fead channels}}{26}{figure.6.6}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces {[Code]}withSink}}{27}{figure.6.7}%
+\contentsline {figure}{\numberline {6.8}{\ignorespaces {[Code]}Read channels}}{27}{figure.6.8}%
+\contentsline {figure}{\numberline {6.9}{\ignorespaces {[Code]} withGenerator}}{28}{figure.6.9}%
+\contentsline {figure}{\numberline {6.10}{\ignorespaces {[Code]} unfoldF and mkUnfoldFilter}}{29}{figure.6.10}%
+\contentsline {figure}{\numberline {6.11}{\ignorespaces {[Code]} mkFilter and actors}}{30}{figure.6.11}%
+\contentsline {figure}{\numberline {6.12}{\ignorespaces {[Code]}Building actors}}{30}{figure.6.12}%
+\contentsline {figure}{\numberline {6.13}{\ignorespaces {[Code]} Building filters}}{31}{figure.6.13}%
+\contentsline {figure}{\numberline {6.14}{\ignorespaces {[Code]}mkGenerator }}{31}{figure.6.14}%
+\contentsline {figure}{\numberline {6.15}{\ignorespaces {[Code]} mkDP}}{31}{figure.6.15}%
+\contentsline {figure}{\numberline {6.16}{\ignorespaces {[Code]} runDP}}{32}{figure.6.16}%
+\contentsline {figure}{\numberline {6.17}{\ignorespaces {[Code]}Functions summary}}{33}{figure.6.17}%
+\contentsline {figure}{\numberline {6.18}{\ignorespaces {[Lib]} Source stage}}{34}{figure.6.18}%
+\contentsline {figure}{\numberline {6.19}{\ignorespaces {[Lib]} Sink stage}}{35}{figure.6.19}%
+\contentsline {figure}{\numberline {6.20}{\ignorespaces {[Lib]} Counting words inital state}}{36}{figure.6.20}%
+\contentsline {figure}{\numberline {6.21}{\ignorespaces {[Lib]} Counting words state 1}}{36}{figure.6.21}%
+\contentsline {figure}{\numberline {6.22}{\ignorespaces {[Lib]} Counting words state 2}}{36}{figure.6.22}%
+\contentsline {figure}{\numberline {6.23}{\ignorespaces {[Lib]} Counting words state 3}}{37}{figure.6.23}%
+\contentsline {figure}{\numberline {6.24}{\ignorespaces {[Lib]} Counting words final state}}{37}{figure.6.24}%
+\contentsline {figure}{\numberline {6.25}{\ignorespaces {[Code]} Implementation 1}}{37}{figure.6.25}%
+\contentsline {figure}{\numberline {6.26}{\ignorespaces {[Code]} Implementation 2}}{38}{figure.6.26}%
+\contentsline {figure}{\numberline {6.27}{\ignorespaces {[Code]} Implementation 3}}{38}{figure.6.27}%
+\contentsline {figure}{\numberline {6.28}{\ignorespaces {[Code]} Implementation 4}}{39}{figure.6.28}%
+\contentsline {figure}{\numberline {6.29}{\ignorespaces {[Code]} Implementation 5}}{40}{figure.6.29}%
+\contentsline {figure}{\numberline {6.30}{\ignorespaces {[Code]} unfoldFilebyChars definition}}{42}{figure.6.30}%
+\contentsline {figure}{\numberline {6.31}{\ignorespaces {[Code]} unfoldFilebyChars example}}{42}{figure.6.31}%
+\contentsline {figure}{\numberline {6.32}{\ignorespaces {[Code]} unfoldFilebyWords definition}}{43}{figure.6.32}%
+\contentsline {figure}{\numberline {6.33}{\ignorespaces {[Code]} unfoldFilebyWords example}}{43}{figure.6.33}%
+\contentsline {figure}{\numberline {6.34}{\ignorespaces {[Code]} pushState definition}}{43}{figure.6.34}%
+\contentsline {figure}{\numberline {6.35}{\ignorespaces {[Code]} pushState example}}{44}{figure.6.35}%
+\contentsline {figure}{\numberline {6.36}{\ignorespaces {[Code]} foldFile definition}}{44}{figure.6.36}%
+\contentsline {figure}{\numberline {6.37}{\ignorespaces {[Code]} foldFile example}}{44}{figure.6.37}%
+\contentsline {figure}{\numberline {6.38}{\ignorespaces {[Lib] First console output} unfoldFilebyChars definition}}{45}{figure.6.38}%
+\contentsline {figure}{\numberline {6.39}{\ignorespaces {[Code]} runDP error}}{45}{figure.6.39}%
+\contentsline {figure}{\numberline {6.40}{\ignorespaces {[Code]} New runDP definition}}{45}{figure.6.40}%
+\contentsline {figure}{\numberline {6.41}{\ignorespaces [Lib] Second console output}}{46}{figure.6.41}%
+\contentsline {figure}{\numberline {6.42}{\ignorespaces {[Code]} unActor error}}{46}{figure.6.42}%
+\contentsline {figure}{\numberline {6.43}{\ignorespaces {[Code]} New unActor}}{47}{figure.6.43}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces [IEBT] Type and data definitions}}{49}{figure.7.1}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces [Exp] Plot GHC 8.10.3 vs 9.0.2}}{53}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces [Exp] Plot Set vs HashSet}}{55}{figure.8.2}%
+\addvspace {10\p@ }
