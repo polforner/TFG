@@ -1,4 +1,29 @@
 \chapter{Conclusions and future work}
-In this chapter, we will discuss the conclusions and results of the work. We will also comment on possible future work that could continue this work.
+In this chapter, we will discuss the conclusions and results of the work.
+We will also comment on possible future work that could continue this work.
 \section{Conclusions}
+This project has gone through many phases and has generally achieved positive results. \\
+
+Firstly, regarding the library, we have been able to fully understand its operation and have created a guide to follow in order to use it more easily.
+We have followed the process of defining and implementing an algorithm that uses a dynamic pipeline: the word counting problem.
+We have added new functionalities and updated it to be usable with a newer version of GHC.
+We have also been able to carry out a small experiment to check if there was a performance improvement with the code update, obtaining a positive result. \\
+
+On the other hand, there have been attempts to improve the implementation of the IEBT algorithm, with less positive results.
+Based on the initial assumption that the implementation of the used structures could be improved, all structures have been analyzed for optimization opportunities.
+We have confirmed that the structures used are generally correct and that no significant improvements are expected in this area.
+Despite this, we have managed to identify one structure that could be improved and have conducted experiments.
+The results indicate some improvement, although further testing with larger inputs would be necessary to draw more conclusive conclusions. \\
+
+Overall, we can draw a positive assessment of this work.
+The three initially proposed objectives and the overall planning were successfully accomplished.
+Ultimately, understanding the library and Haskell code required more time than anticipated, which, combined with the limited time frame of this project, prevented further improvements to the library and algorithm.
 \section{Future work}
+Once the entire project is completed, there are a few concepts that could be further explored for future expansion:
+\begin{itemize}
+    \item \textbf{Continue updating the library:}  It would be necessary to continue updating the library to make it compatible with new GHC versions as they are released. This would involve reviewing some dependencies and considering newer versions to ensure ongoing compatibility. Additionally, any new functionalities added to the library would enhance its usability.
+
+    \item \textbf{Investigate the IEBT algorithm implementation further:}  It would be worthwhile to delve deeper into the possibility of improving the data structures used to store the various sets. This would involve exploring more sophisticated matching techniques or alternative methods of representing these structures more efficiently.
+
+    \item \textbf{Conduct more experiments:}  Additional resources would be required to conduct experiments with larger and more diverse inputs. It would also be necessary to assess performance using other metrics, such as memory usage, to obtain more consistent results.
+\end{itemize}

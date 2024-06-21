@@ -39,7 +39,7 @@ If we put together streaming and parallelism, it can be distinguished two comput
     \end{itemize}
 \subsubsection*{Dynamic Pipeline Paradigm}
 Now that we talked about these 3 concepts: incremental algorithms, streaming and parallelism, it can be introduced the next concept that will be the main focus of this project.
-The Dynamic Pipeline Paradigm is a Pipeline Parallelism model "\textit{based on a one-dimensional and unidirectional chain of stages connected by means of channels synchronized by data availability}". Royo-Sales et al. \cite[][Page 9, 2.2]{royo_sales_algorithm_2021}
+The Dynamic Pipeline Paradigm \cite{pasarella2024computational} is a Pipeline Parallelism model "\textit{based on a one-dimensional and unidirectional chain of stages connected by means of channels synchronized by data availability}". Royo-Sales et al. \cite[][Page 9, 2.2]{royo_sales_algorithm_2021}
 This chain is called Dynamic Pipeline and it can grow and shrink with the continuous arrival of data.
 So we can use a data stream to feed the pipeline and it will process the data growing and shrinking the as needed. \\
 With this paradigm we can implement incremental algorithms and process the data in parallel easily.
@@ -80,8 +80,9 @@ The work methodology that will be followed throughout the project's development 
 \subsection{Objectives}
 This project has the following main objectives:
 \begin{list}{-}{}
-    \item \textbf{Improving DP Haskell Library:} The first goal of this project is to improve the Haskell library made by Royo-Sales et al. \cite{royo_sales_algorithm_2021}.
-    \item \textbf{Improve IEBT algorithm:} The second goal is to improve the implementation of the algorithm mentoined before.
+    \item \textbf{Toy problem:} The first goal is to learn how to use the library and develop my own algorithm and implementation for a problem.
+    \item \textbf{Improving DP Haskell Library:} The second goal of this project is to improve the Haskell library made by Royo-Sales et al. \cite{royo_sales_algorithm_2021}.
+    \item \textbf{Improve IEBT algorithm:} The third goal is to improve the implementation of the algorithm mentoined before.
 \end{list}
 Apart from these main objectives, I have some sub-objectives that I would like to achieve at the end of the project:
 \begin{list}{-}{}

@@ -49,7 +49,12 @@ type FilterPar = Pair
 type DPExample = Source (Channel (Pair :<+> Eof)) :=> Generator (Channel (Pair :<+> Eof)) :=> Sink
 
 input :: [Word]
+<<<<<<< HEAD:PruebasHaskell/codes/MainDoc2.hs
 input = ["dog", "cat",".","dog","dog","dog",".","bird","cat","."]
+=======
+input = ["hola","que","tal","hola",".","aixo","es","que","tal",".","hola","hola","hola","hola","."]
+--input = ["hola","."]
+>>>>>>> 74db42ce31a2a93cf11661eae719d5bded94ad41:Pruebas Haskell/MainDoc2.hs
 
 source' :: Stage (WriteChannel Pair -> DP s ())
 source' = withSource @DPExample fillChannels
@@ -78,7 +83,11 @@ create' (_,0) = True
 create' _ = False
 
 decideIfPrint :: WriteChannel Pair -> Pair -> DP s ()
+<<<<<<< HEAD:PruebasHaskell/codes/MainDoc2.hs
 decideIfPrint c (".",_) = push (".",0) c
+=======
+decideIfPrint c (".",_) = push ("FIN DE FRASE",0) c
+>>>>>>> 74db42ce31a2a93cf11661eae719d5bded94ad41:Pruebas Haskell/MainDoc2.hs
 decideIfPrint _ (_,0) = return ()
 decideIfPrint c a = push a c
 
@@ -110,11 +119,15 @@ sink' :: Stage (ReadChannel Pair -> DP s ())
 sink' = withSink @DPExample readChannels
 
 readChannels ::ReadChannel Pair -> DP st ()
+<<<<<<< HEAD:PruebasHaskell/codes/MainDoc2.hs
 readChannels rp = foldM_ rp printResults
 
 printResults :: Pair -> DP st ()
 printResults (".",_) = print "**********************"
 printResults (w,n) = print $ w ++ " " ++ show n
+=======
+readChannels rp = foldM_ rp print
+>>>>>>> 74db42ce31a2a93cf11661eae719d5bded94ad41:Pruebas Haskell/MainDoc2.hs
 
 main :: IO ()
 main = runDP $ mkDP @DPExample source' generator' sink'

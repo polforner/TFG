@@ -52,6 +52,49 @@
       \verb http://hdl.handle.net/2117/361615
       \endverb
     \endentry
+    \entry{pasarella2024computational}{article}{}
+      \name{author}{4}{}{%
+        {{hash=f089b0d7b0ad741fd7678f455f32b99b}{%
+           family={Pasarella},
+           familyi={P\bibinitperiod},
+           given={Edelmira},
+           giveni={E\bibinitperiod}}}%
+        {{hash=7690d7bd760c8039dc1ab142ff7c067b}{%
+           family={Vidal},
+           familyi={V\bibinitperiod},
+           given={Maria-Esther},
+           giveni={M\bibinithyphendelim E\bibinitperiod}}}%
+        {{hash=65e649d29a973e18626f9491ee6738b4}{%
+           family={Zoltan},
+           familyi={Z\bibinitperiod},
+           given={Cristina},
+           giveni={C\bibinitperiod}}}%
+        {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={Juan\bibnamedelimb Pablo\bibnamedelima Royo},
+           giveni={J\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{6772490b0c870a933ef70b5dc50c915f}
+      \strng{fullhash}{1d3bca37cdf4b3cfbce53878ab753b59}
+      \strng{bibnamehash}{1d3bca37cdf4b3cfbce53878ab753b59}
+      \strng{authorbibnamehash}{1d3bca37cdf4b3cfbce53878ab753b59}
+      \strng{authornamehash}{6772490b0c870a933ef70b5dc50c915f}
+      \strng{authorfullhash}{1d3bca37cdf4b3cfbce53878ab753b59}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Logical and Algebraic Methods in Programming}
+      \field{title}{A computational framework based on the dynamic pipeline approach}
+      \field{volume}{139}
+      \field{year}{2024}
+      \field{pages}{100966}
+      \range{pages}{1}
+    \endentry
     \entry{herrero_bravo_experimental_2024}{thesis}{}
       \name{author}{1}{}{%
         {{hash=49369d64a0f285f7c2ff0d61413932ff}{%
@@ -85,9 +128,35 @@
       \verb http://hdl.handle.net/2117/407759
       \endverb
     \endentry
+    \entry{forner_gomez_source_nodate}{software}{}
+      \name{author}{1}{}{%
+        {{hash=8a2e262482574864bf8b6c52f337b920}{%
+           family={Forner\bibnamedelima Gomez},
+           familyi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           given={Pol},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{fullhash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{bibnamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authorbibnamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authornamehash}{8a2e262482574864bf8b6c52f337b920}
+      \strng{authorfullhash}{8a2e262482574864bf8b6c52f337b920}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Source Code Repository}
+      \verb{urlraw}
+      \verb https://github.com/polforner/TFG
+      \endverb
+      \verb{url}
+      \verb https://github.com/polforner/TFG
+      \endverb
+    \endentry
     \entry{noauthor_salary_2024}{online}{}
-      \field{sortinit}{1}
-      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labeltitlesource}{shorttitle}
       \field{abstract}{The average salary for a Researcher is \$30,000 per year in Spain. Click here to see the total pay, recent salaries shared and more!}
       \field{day}{10}
@@ -164,8 +233,8 @@
       \endverb
     \endentry
     \entry{noauthor_dataintset_nodate}{online}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{title}{Haskell IntSet}
       \field{urlday}{19}
@@ -182,32 +251,6 @@
       \verb https://hackage.haskell.org/package/containers-0.7/docs/Data-IntSet.html
       \endverb
     \endentry
-    \entry{forner_gomez_source_nodate}{software}{}
-      \name{author}{1}{}{%
-        {{hash=8a2e262482574864bf8b6c52f337b920}{%
-           family={Forner\bibnamedelima Gomez},
-           familyi={F\bibinitperiod\bibinitdelim G\bibinitperiod},
-           given={Pol},
-           giveni={P\bibinitperiod}}}%
-      }
-      \strng{namehash}{8a2e262482574864bf8b6c52f337b920}
-      \strng{fullhash}{8a2e262482574864bf8b6c52f337b920}
-      \strng{bibnamehash}{8a2e262482574864bf8b6c52f337b920}
-      \strng{authorbibnamehash}{8a2e262482574864bf8b6c52f337b920}
-      \strng{authornamehash}{8a2e262482574864bf8b6c52f337b920}
-      \strng{authorfullhash}{8a2e262482574864bf8b6c52f337b920}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Source Code Repository}
-      \verb{urlraw}
-      \verb https://github.com/polforner/TFG
-      \endverb
-      \verb{url}
-      \verb https://github.com/polforner/TFG
-      \endverb
-    \endentry
     \entry{sales_jproyodynamic-pipeline_2021}{software}{}
       \name{author}{1}{}{%
         {{hash=ebfe351043768e1ac1da69243bf2f4d3}{%
@@ -222,8 +265,8 @@
       \strng{authorbibnamehash}{ebfe351043768e1ac1da69243bf2f4d3}
       \strng{authornamehash}{ebfe351043768e1ac1da69243bf2f4d3}
       \strng{authorfullhash}{ebfe351043768e1ac1da69243bf2f4d3}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{day}{21}
@@ -245,8 +288,8 @@
       \endverb
     \endentry
     \entry{noauthor_what_nodate}{online}{}
-      \field{sortinit}{2}
-      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labeltitlesource}{title}
       \field{abstract}{How long is your new, or used, computer supposed to last? Learn more about the average computer lifespan and advice on how to extend the longevity of your {PC}.}
       \field{langid}{english}
@@ -267,8 +310,8 @@
       \endverb
     \endentry
     \entry{noauthor_glasgow_nodate}{online}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{title}{Glasgow Haskell Compiler 9.0.1 User's Guide}
       \field{urlday}{19}
@@ -287,8 +330,8 @@
       \endverb
     \endentry
     \entry{noauthor_boe--2011-9617_nodate}{online}{}
-      \field{sortinit}{3}
-      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labeltitlesource}{title}
       \field{title}{{BOE}-A-2011-9617 Ley 14/2011, de 1 de junio, de la Ciencia, la Tecnología y la Innovación.}
       \field{urlday}{19}
